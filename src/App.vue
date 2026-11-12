@@ -16,19 +16,19 @@
   </div>
 
   <!--left side bar -->
-  <div class="sideBar">
-    <aside>
-      <ul>
-        <li><b>Home</b></li>
-        <li><b>Activities</b></li>
-        <li><b>Clubs</b></li>
-        <li><b>Societies</b></li>
-        <li><b>Calender</b></li>
-      </ul>
-    </aside>>
+  <aside>
+  <nav>
+  <ul>
+  <li class = "listItem"><a>Home</a></li>
+  <li class = "listItem"><a>Activities</a></li>
+  <li class = "listItem"><a>Clubs</a></li>
+  <li class = "listItem"><a>Societies</a></li>
+  <li class = "listItem"><a>Calendar</a></li>
+  </ul>
+  </nav>
 
     <h3><b>Recent Updates:</b></h3>
-  </div>
+  </aside>
 
   <!-- bottom bar -->
   <div class="bottomBar">
